@@ -1,0 +1,5 @@
+ToDo list du 15 Janvier 2018
+
+	- Terminer ChatBot
+	- Test version bêta extension Chrome
+	- Emailing ALT
